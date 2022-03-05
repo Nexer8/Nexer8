@@ -2,8 +2,6 @@
 
 I am a double Master's degree student in Computer Science at both Polytechnic University of Milan and Wrocław University of Science and Technology.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nexer8&show_icons=true&locale=en&theme=slateorange&hide_title=true&count_private=true)
-
 #### Connect with me
 
 - [Resume Website](https://nexer8.github.io/resume/) :open_book::pen:

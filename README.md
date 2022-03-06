@@ -13,7 +13,7 @@ I am a double Master's degree student in Computer Science at both Polytechnic Un
 
 - [Resume Website](https://nexer8.github.io/resume/) :open_book::pen:
 - [LinkedIn](https://linkedin.com/in/mariusz-wiśniewski-230126180) :point_left:
-- [Kaggle](https://kaggle.com/mariuszwiniewski) :orange_book:
+- [Kaggle](https://www.kaggle.com/mariuszwisniewski) :orange_book:
 
 #### Languages and Tools
 

@@ -17,7 +17,7 @@ I am a double Master's degree student in Computer Science at both Polytechnic Un
 
 #### Contributions to Open Source Projects
 
-- ![Icon](https://github.com/0x7c13/Notepads/blob/master/src/Notepads/Assets/GameBar/Icons/icon.targetsize-16.png) [Notepads](https://github.com/0x7c13/Notepads)
+- [![Icon](https://github.com/0x7c13/Notepads/blob/master/src/Notepads/Assets/GameBar/Icons/icon.targetsize-16.png) Notepads](https://github.com/0x7c13/Notepads)
 
 #### Languages and Tools
 

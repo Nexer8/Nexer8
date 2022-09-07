@@ -15,6 +15,10 @@ I am a double Master's degree student in Computer Science at both Polytechnic Un
 - [LinkedIn](https://linkedin.com/in/mariusz-wiśniewski-230126180) :point_left:
 - [Kaggle](https://www.kaggle.com/mariuszwisniewski) :orange_book:
 
+#### Contributions to Open Source Projects
+
+- ![Icon](https://github.com/0x7c13/Notepads/blob/master/src/Notepads/Assets/GameBar/Icons/icon.targetsize-16.png) [Notepads](https://github.com/0x7c13/Notepads)
+
 #### Languages and Tools
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>

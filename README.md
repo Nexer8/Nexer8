@@ -1,6 +1,6 @@
 ### Hi, I'm Mariusz 👋:man_technologist:
 
-I am a double Master's degree student in Computer Science at both Polytechnic University of Milan and Wrocław University of Science and Technology.
+I graduated from a double Master's degree in Computer Science and Engineering at both Politecnico di Milano and Wrocław University of Science and Technology.
 
 <details>
   <summary style="margin-bottom: 1rem; margin-top: 1rem;"> GitHub Stats :chart_with_upwards_trend:</summary>

@@ -1,4 +1,4 @@
-### Hi, I'm Mariusz 👋:man_technologist:
+### Hi, I'm Mariusz 👋👨‍💻
 
 I graduated from a double Master's degree in Computer Science and Engineering at both Politecnico di Milano and Wrocław University of Science and Technology.
 

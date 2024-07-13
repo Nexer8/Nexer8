@@ -11,7 +11,7 @@ I graduated from a double Master's degree in Computer Science and Engineering at
 
 #### Connect with me
 
-- [Resume Website](https://nexer8.github.io/resume/) :open_book::pen:
+- [Portfolio Website](https://nexer8.github.io/) :open_book::pen:
 - [LinkedIn](https://linkedin.com/in/mariusz-wiśniewski-230126180) :point_left:
 - [Kaggle](https://www.kaggle.com/mariuszwisniewski) :orange_book:
 
